@@ -1,6 +1,6 @@
 # Motion_Planning-CoppeliaSim
 This project will focus on the creation of a motion planning algorithm to manoeuvre
-the robot pioneer p3dx.The map and the position of the robot will be now and the objective
+the robot pioneer p3dx.The map and the position of the robot will be known and the objective
 is to be able to control the robots position and to reach a destination in the shortest
 time possible while avoiding collisions with walls and obstacles.
 
